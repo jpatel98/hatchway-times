@@ -1,6 +1,6 @@
-# Hatchways Times
+# [Hatchways Times](https://hatchwaytimes.netlify.app/)
 
-Hatchways Times is a website that lists blog posts. All data is located in `src/data/blogs.json` file and loaded directly into client without a server.
+[Hatchways Times](https://hatchwaytimes.netlify.app/) is a dummy website that lists blog posts. All data is located in `src/data/blogs.json` file and loaded directly into client without a server.
 
 Example blog post data:
 
